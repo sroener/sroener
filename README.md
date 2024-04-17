@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <p align="justify"> <img src="https://komarev.com/ghpvc/?username=sroener&label=Profile%20views&color=0e75b6&style=flat" alt="sroener" /> </p>
 
-- 💬 Ask me about **Deep Learning, LGBM, scikit-learn and Workflow management,**
+- 💬 Ask me about **Deep Learning, LGBM, scikit-learn and Workflow management**
 
 
 <p align="justify">
