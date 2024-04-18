@@ -27,14 +27,6 @@ Here are some ideas to get you started:
 <img height=189 align="justify" src="https://github-readme-streak-stats.herokuapp.com/?user=sroener&theme=tokyonight&type=svg" alt="sroener"/>
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=sroener&show_icons=true&theme=tokyonight&locale=en&rank_icon=github" alt="sroener" />
-</a>
-<a href="https://github.com/sroener">
-  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sroener&theme=tokyonight&type=svg" alt="sroener"/>
-</a>
-
-
 <h3 align="justify">Languages and Tools:</h3>
 
 <div>
