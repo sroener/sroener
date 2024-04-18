@@ -23,11 +23,15 @@ Here are some ideas to get you started:
 - ⚡ Ask me about **Deep Learning, LGBM, scikit-learn** and **Workflow management**
 - 💬 Talk to me about science fiction, xkcd, tech, podcasts and many more
 
-<a href="https://github.com/sroener">
+<img height=200 align="justify" src="https://github-readme-stats.vercel.app/api?username=sroener&show_icons=true&theme=tokyonight&locale=en&rank_icon=github" alt="sroener" />
+<img height=189 align="justify" src="https://github-readme-streak-stats.herokuapp.com/?user=sroener&theme=tokyonight&type=svg" alt="sroener"/>
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=sroener&show_icons=true&theme=tokyonight&locale=en&rank_icon=github" alt="sroener" />
 </a>
 <a href="https://github.com/sroener">
-  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sroener&theme=tokyonight" alt="sroener"/>
+  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sroener&theme=tokyonight&type=svg" alt="sroener"/>
 </a>
 
 
@@ -62,6 +66,7 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" title="Keras" alt="keras" width="80" height="80"/>&nbsp;    
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" title="Scikit-Learn" alt="sklearn" height="80"/>&nbsp;
   <img src="Icons/LightGBM_logo_grey_text.svg" title="LightGBM" alt="LightGBM" height="80"/>&nbsp;  
+  <img src="Icons/shap_logo.png" title="LightGBM" alt="LightGBM" height="80"/>&nbsp; 
 </div>
 
           
