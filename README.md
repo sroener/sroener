@@ -23,13 +23,22 @@ Here are some ideas to get you started:
 - ⚡ Ask me about **Deep Learning, LGBM, scikit-learn** and **Workflow management**
 - 💬 Talk to me about science fiction, xkcd, tech, podcasts and many more
 
+<a href="https://github.com/sroener">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=sroener&show_icons=true&theme=tokyonight&locale=en&rank_icon=github" alt="sroener" />
+</a>
+<a href="https://github.com/sroener">
+  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sroener&theme=tokyonight" alt="sroener"/>
+</a>
+
 
 <h3 align="justify">Languages and Tools:</h3>
 
 <div>
           
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" alt="python" width="80" height="80"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-plain.svg" title="Bash" alt="bash" width="80" height="80"/>&nbsp;
+   <img src="Icons/bash-icon-svgrepo-com.svg" title="LightGBM" alt="LightGBM" width="80" height="80"/>&nbsp;
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" title="R" alt="R" height="80"/>&nbsp;
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" title="Docker" alt="docker" height="80"/>&nbsp;
   
 </div>
 
@@ -51,14 +60,13 @@ Here are some ideas to get you started:
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" title="Tensorflow" alt="tensorflow" width="80" height="80"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" title="Keras" alt="keras" width="80" height="80"/>&nbsp;    
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" title="Scikit-Learn" alt="sklearn" width="80" height="80"/>&nbsp;
-  <img src="Icons/LightGBM_logo_grey_text.svg" title="LightGBM" alt="LightGBM" width="80" height="80"/>&nbsp;  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" title="Scikit-Learn" alt="sklearn" height="80"/>&nbsp;
+  <img src="Icons/LightGBM_logo_grey_text.svg" title="LightGBM" alt="LightGBM" height="80"/>&nbsp;  
 </div>
 
           
 
-<p><img align="justify" src="https://github-readme-streak-stats.herokuapp.com/?user=sroener&theme=tokyonight" alt="sroener" /></p>
-<p><img align="justify" src="https://github-readme-stats.vercel.app/api?username=sroener&show_icons=true&theme=tokyonight&locale=en" alt="sroener" /></p>
-<p><img align="justify" src="https://github-readme-stats.vercel.app/api/top-langs?username=sroener&show_icons=true&theme=tokyonight&locale=en" alt="sroener" /></p>
+<p><img align="justify"  /></p>
+
 
 
