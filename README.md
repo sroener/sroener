@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - ⚡ Ask me about **Deep Learning, LGBM, scikit-learn** and **Workflow management**
 - 💬 Talk to me about science fiction, xkcd, tech, podcasts and many more
 
-<img height=200 align="justify" src="https://github-readme-stats.vercel.app/api?username=sroener&show_icons=true&theme=tokyonight&locale=en&rank_icon=github" alt="sroener" />
+<img height=200 align="justify" src="https://github-readme-stats.vercel.app/api?username=sroener&count_private=true&show_icons=true&theme=tokyonight&locale=en&rank_icon=github" alt="sroener" />
 <img height=189 align="justify" src="https://github-readme-streak-stats.herokuapp.com/?user=sroener&theme=tokyonight&type=svg" alt="sroener"/>
 
 
