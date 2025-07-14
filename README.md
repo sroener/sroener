@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <p align="justify"> <img src="https://komarev.com/ghpvc/?username=sroener&label=Profile%20views&color=0e75b6&style=flat" alt="sroener" /> </p>
 
-- 🔭 I’m currently working on a project that leverages genomic data for cancer detection
+- 🔭 I’m currently working on a project that leverages genomic data for biomedical research on various diseases
 - 🌱 I’m currently learning **MLOps** and about **transformer architectures**
 - :bulb: I'm interested **Bioinformatics, Data Science** and **Machine/Deep Learning**
 - ⚡ Ask me about **Deep Learning, LGBM, scikit-learn** and **Workflow management**
